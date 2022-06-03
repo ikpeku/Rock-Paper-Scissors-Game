@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game
+# Rock Paper Scissors Game
 Rock-Paper-Scissors is a simple two-player game where, at a signal, players make figures with their hands, representing a rock, a piece of paper, or a pair of scissors. The winner is determined according to a set of rules. You can find the official rules under the Resources.
 
  
@@ -20,14 +20,17 @@ The is an opponent game one player will be controlled by the computer and the ot
 "R" for "rock", 
 "P" for "paper", 
 "S" for "scissors".
+
+
 When the program is run,user is asked to pick an option between "R", "P" or "S"
-If user input is invalid (not amongst our options), an error is return, and ask for their input again.
+If user input is invalid (not amongst our options), an error is return, and ask 
+for their input again.
 
 
 Both player's moves are display in the format: Player (Rock) : CPU (Paper)
 Check both player's moves: 
-If there is a winner, print the winner, and the program ends. 
-If it's a tie (the computer and player pick the same move), restart the game
+If there is a winner, winner display, and the game ends. 
+If it's a tie (the computer and player pick the same move), the game restart.
 ```
 
 ## Contributing:
