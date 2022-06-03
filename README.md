@@ -35,5 +35,4 @@ If it's a tie (the computer and player pick the same move), restart the game
 This is for practical purpose. However pull request is welcome.
 
 ## License:
-[MIT]
-(https://choosealincence.com/licenses/mit/)
+[MIT](https://choosealincence.com/licenses/mit/)
